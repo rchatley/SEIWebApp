@@ -5,3 +5,4 @@ script: mvn clean verify
 deploy:
   provider: heroku
   api_key: f7667f4d-191f-4dc1-a4c0-89ac7608e42e
+  app: peaceful-fjord-25221
